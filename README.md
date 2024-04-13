@@ -7,6 +7,11 @@ This program is designed to update and fix corrupt windows files. The program us
 
 HOW TO USE:
 
+Download the newwast version on the right hand size of the page 
+The newest is Source code (zip)
+
+Unzip the folder  
+
 **YOU MUST HAVE WINGET INSTALLED
 **YOU MUST RUN THE PROGRAM AS AN ADMINISTRATOR
 
