@@ -15,6 +15,8 @@ Select 'Run as Administrator'
 
 Wait for the command prompt to complete both of the bash executions
 
+Select Ok for the windows disk cleanup and allow that to run
+
 It is also recommended to do any windows updates that are available and then restart your machine
 
 ================================================================================================================
